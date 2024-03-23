@@ -1,3 +1,5 @@
+Let's begin!
+
 # Ingredients of "Thanksgiving Pudding II" recipe from "The Boston Cooking-School Cook Book" by Fannie Farmer
 
 ⅓ cup suet
@@ -13,3 +15,5 @@
 2 tablespoons flour
 4 eggs
 2 teaspoons baking powder
+
+Enjoy my recipe!
